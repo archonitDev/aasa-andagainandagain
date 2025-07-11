@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NW2N554BCT.com.again.mobile.app",
+         "paths": ["/product/*", "/profile/*"]
+      }
+    ]
+  }
+}
